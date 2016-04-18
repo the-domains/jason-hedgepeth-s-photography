@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6825994
+  brandStrength: 0.998375
+  lightness: 0.4011815
+  rhythmicContrast: 0.7298604
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.5214823
+name: "Jason Hedgepeth's Photography"
